@@ -2,9 +2,9 @@
 
 ##
 
-- ✨ Trabalho com PHP, utilizando o framework Laravel; e Mineração/Extração/Transformação de dados com Pentaho.
-- 👨‍🎓 Contínuo aprendizado em: PHP, Laravel, Vue.js, Node.js, html5, CSS3, MySql...
-- #️⃣ Colaboro em desenvolvimentos de sistemas web e sites.
+✨ Trabalho com PHP, utilizando o framework Laravel; e Mineração/Extração/Transformação de dados com Pentaho.
+👨‍🎓 Contínuo aprendizado em: PHP, Laravel, Vue.js, Node.js, html5, CSS3, MySql...
+#️⃣ Colaboro em desenvolvimentos de sistemas web e sites.
 
 ##
 
