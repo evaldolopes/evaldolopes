@@ -48,7 +48,7 @@
 <div align='center'>
 - Meus desenvolvimentos e passagens por aqui -<br /><br />
   <a href="#">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=evaldolopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaldolopes&layout=compact&langs_count=10&theme=dracula"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=evaldolopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaldolopes&layout=compact&langs_count=10&theme=dark"/>
    </a>
 </div>
