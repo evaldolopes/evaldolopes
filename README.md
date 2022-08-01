@@ -1,4 +1,4 @@
-### Olá! 👋 Me chamo Evaldo Lopes, sou Desenvolvedor bach-end PHP e Desenvolvedor Business Intelligence.
+### Olá! 👋 Me chamo Evaldo Lopes, sou Desenvolvedor Full Stack e Desenvolvedor Business Intelligence.
 
 ##
 
