@@ -47,8 +47,8 @@
 
 <div align='center'>
 - Meus desenvolvimentos e disseminando informações -<br /><br />
-  
+  <a href="javascritp:void(0);">
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=evaldolopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaldolopes&layout=compact&langs_count=10&theme=tokyonight"/>
-  
+  </a>
 </div>
