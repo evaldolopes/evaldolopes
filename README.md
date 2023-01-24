@@ -47,14 +47,8 @@
 
 <div align='center'>
 - Meus desenvolvimentos e disseminando informações -<br /><br />
-  <!--
-  <a href="#">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=evaldolopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaldolopes&layout=compact&langs_count=10&theme=tokyonight"/>
-  </a>
-  -->
- 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=evaldolopes&layout=compact&&show_icons=truecompact&langs_count=10&theme=tokyonight&hide_border=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evaldolopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaldolopes&layout=compact&langs_count=7&theme=dracula"/>
   
   ![Snake animation](https://github.com/matheuzmendez/matheuzmendez/blob/output/github-contribution-grid-snake.svg)
  
