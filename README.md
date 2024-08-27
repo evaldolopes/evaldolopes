@@ -22,7 +22,7 @@
   <a target="_blank" href="https://t.me/EvaldoLBJ">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a target="_blank" href="https://www.instagram.com/evaldolopes.of">
+  <a target="_blank" href="https://www.instagram.com/evaldo.kiko">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
