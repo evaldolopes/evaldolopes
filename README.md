@@ -1,5 +1,7 @@
 ### Olá! 👋 Me chamo Evaldo Lopes, sou Desenvolvedor Full Stack e Business Intelligence.
 
+##
+
 💻 Sou formado em Ciência da Computação e pós graduado em Banco de Dados com ênfase em Oracle.
 
 ☕ Um bom café para acordar, gosto de ver redes socias de Instagram/LinkedIn.
@@ -7,7 +9,7 @@
 📚 Compartilho minhas experiências de carreira e procuro estudar continuamente, bem como aventurar autmoção de robótica com Arduino.
 
 ##
-
+### O que tá rolando:
 - 🔭 Atualmente trabalho com PHP, utilizando o framework Zend e Laravel.
 - 👯 Procuro colaborar em mineração/extração/transformação de dados em ETL com Pentaho.
 - 🚀 Contínuo aprendizado em: Python, PHP, Laravel, Alpine.js, HTML, CSS, MySql.
